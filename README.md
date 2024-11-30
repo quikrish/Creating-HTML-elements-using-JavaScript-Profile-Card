@@ -20,3 +20,6 @@ A simple web application that generates a customizable profile card with a name,
 - **HTML**: Structure of the page.
 - **CSS**: Styling for the profile card and button.
 - **JavaScript**: Handles the dynamic creation of the profile card.
+
+## Demo
+![Profile Card Demo](https://quikrish.github.io/Creating-HTML-elements-using-JavaScript-Profile-Card/)
