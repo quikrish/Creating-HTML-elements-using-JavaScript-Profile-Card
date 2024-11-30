@@ -8,8 +8,9 @@ function createProfileCard() {
   profileCard.className = "profilr-card";
   //image
   const profileImage = document.createElement("img");
-  profileImage.src =
-    "https://imgs.search.brave.com/FtOFcbB-uwhHRdc50cUcU9RBrTpOaYB43DAFZ1v84wQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzA3LzQ3Lzg0LzU0/LzM2MF9GXzc0Nzg0/NTQ4M19BVzVZZG9z/b2xia2JpV1lFRGQ4/VHVvaEMwb3pCOFFV/aC5qcGc";
+  profileImage.src = "./images/profileImage.jpg";
+  profileImage.alt = "Profile Image";
+  profileImage.id = "profileImage";
   const profileName = document.createElement("h3");
   profileName.textContent = "Rishad P Ahamed";
   const profileDescr = document.createElement("p");
