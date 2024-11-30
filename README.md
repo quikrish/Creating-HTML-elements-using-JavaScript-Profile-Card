@@ -22,7 +22,7 @@ A simple web application that generates a customizable profile card with a name,
 - **JavaScript**: Handles the dynamic creation of the profile card.
 
 ## Demo
-![Profile Card Demo](https://ibb.co/brcNsSG)
+![Profile Card Demo](https://i.ibb.co/D70w9xj/profile-Card.jpg)
 
 ## Link
 https://quikrish.github.io/Creating-HTML-elements-using-JavaScript-Profile-Card/
